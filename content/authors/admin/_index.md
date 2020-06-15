@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Shin-Fang Ch'ng
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Australian Institute for Machine Learning (AIML), Australian Centre for Robotic Vision (ACRV) The University of Adelaide
+  url: "https://www.adelaide.edu.au/aiml/"
+  url: "https://www.roboticvision.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
