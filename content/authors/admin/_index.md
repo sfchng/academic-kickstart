@@ -42,11 +42,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'shin-fang.chng@adelaide.edu.au'  # For a direct email link, use "mailto:test@example.org".
-
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=0O8DYvQAAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,6 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Ph.D student in the School of Computer Science, The University of Adelaide, supervised by Assoc. Prof. Tat-Jun Chin [link](https://cs.adelaide.edu.au/~tjchin/doku.php?id=start), Dr. Yasir Latif [link](http://ylatif.github.io)  and Dr. Alireza Khosravian. I am affiliated with Australian Institute for Machine Learning (AIML) and Australian Centre for Robotic Vision (ACRV)  My research interest is to develop robust/practical optimisation algorithms for computer vision and robotics application.
