@@ -33,7 +33,6 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
 url_pdf: https://arxiv.org/abs/1909.11888
 url_code: ''
 url_dataset: ''

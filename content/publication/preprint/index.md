@@ -24,15 +24,13 @@ publication_short: ""
 abstract: "Many computer vision applications need to recover structure from imperfect measurements of the real world. The task is often solved by robustly fitting a geometric model onto noisy and outlier-contaminated data. However, recent theoretical analyses indicate that many commonly used formulations of robust fitting in computer vision are not amenable to tractable solution and approximation. In this paper, we explore the usage of quantum computers for robust fitting. To do so, we examine and establish the practical usefulness of a robust fitting formulation inspired by Fourier analysis of Boolean functions. We then investigate a quantum algorithm to solve the formulation and analyse the computational speed-up possible over the classical algorithm. Our work thus proposes one of the first quantum treatments of robust fitting for computer vision."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "We establish the practicaibility of a robust fitting formulation inspired by Fourier Analysis of Boolean functions and investigate a quantum algorithm to solve the formulation."
 
 tags:
 - Source Themes
 featured: false
 
 links:
-- name: Custom Link
-  url: ''
 url_pdf: https://arxiv.org/abs/2006.06986
 url_code: ''
 url_dataset: ''
