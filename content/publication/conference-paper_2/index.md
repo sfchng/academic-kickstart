@@ -6,7 +6,7 @@ authors:
 - Anh-Dzung Doan
 - Tat-Jun Chin
 
-date: "March 2019"
+date: "2019-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
