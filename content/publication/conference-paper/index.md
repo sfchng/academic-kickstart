@@ -26,7 +26,7 @@ abstract: "Planar markers are useful in robotics and computer vision for mapping
 We propose to resolve the ambiguities by examining the consistencies of a set of markers across multiple views. Our specific contributions include a novel rotation averaging formulation that incorporates long-range dependencies between possible marker orientation solutions that arise from PPE ambiguities. We analyse the combinatorial complexity of the problem, and develop a novel lifted algorithm to effectively resolve marker pose ambiguities, without discarding any marker observations. Results on real and synthetic data show that our method is able to handle highly ambiguous inputs, and provides more accurate and/or complete marker-based mapping and localisation."
 
 # Summary. An optional shortened abstract.
-summary: We propose an efficient algorithm to resolve marker pose ambiguities using rotation averaging.
+summary: We propose an efficient algorithm which exploit multiview consistencies to resolve marker pose ambiguities using rotation averaging.
 
 tags:
 - Source Themes

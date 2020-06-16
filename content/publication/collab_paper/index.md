@@ -28,7 +28,7 @@ publication_short: In *DICTA*
 abstract: "A major focus of current research on place recognition is visual localization for autonomous driving. In this scenario, as cameras will be operating continuously, it is realistic to expect videos as an input to visual localization algorithms, as opposed to the single-image querying approach used in other place recognition works. In this paper, we show that exploiting temporal continuity in the testing sequence significantly improves visual localization - qualitatively and quantitatively. Although intuitive, this idea has not been fully explored in recent works. Our main contribution is a novel Monte Carlo-based visual localization technique that can efficiently reason over the image sequence. Also, we propose an image retrieval pipeline which relies on local features and an encoding technique to represent an image as a single vector. The experimental results show that our proposed method achieves better results than state-of-the-art approaches for the task on visual localization under significant appearance change. Our synthetic dataset and source code are publicly made available."
 
 # Summary. An optional shortened abstract.
-summary: We proposed a technique which exploit temporal continutity in visual localization. We won the APRS/IAPR best paper award.
+summary: We proposed a technique which exploit temporal continuity in visual localization for autonomous driving. We won the APRS/IAPR best paper award.
 
 tags:
 - Source Themes
