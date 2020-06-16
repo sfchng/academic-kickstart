@@ -1,12 +1,12 @@
 ---
-title: "Resolving Marker Pose Ambiguity by Robust Rotation Averaging with Clique Constraints"
+title: "Outlier-Robust Manifold Pre-Integration for INS/GPS Fusion"
 authors:
 - admin
-- Naoya Sogi
-- Pulak Purkait
+- Alireza Khosravian
+- Anh-Dzung Doan
 - Tat-Jun Chin
-- Kazuhiro Fukui
-date: "September 2019"
+
+date: "March 2019"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,28 +19,27 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ICRA 2020*
+publication: In *IROS 2019*
 publication_short: ""
 
-abstract: "Planar markers are useful in robotics and computer vision for mapping and localisation. Given a detected marker in an image, a frequent task is to estimate the 6DOF pose of the marker relative to the camera, which is an instance of planar pose estimation (PPE). Although there are mature techniques, PPE suffers from a fundamental ambiguity problem, in that there can be more than one plausible pose solutions for a PPE instance. Especially when localisation of the marker corners is noisy, it is often difficult to disambiguate the pose solutions based on reprojection error alone. Previous methods choose between the possible solutions using a heuristic criterion, or simply ignore ambiguous markers. 
-We propose to resolve the ambiguities by examining the consistencies of a set of markers across multiple views. Our specific contributions include a novel rotation averaging formulation that incorporates long-range dependencies between possible marker orientation solutions that arise from PPE ambiguities. We analyse the combinatorial complexity of the problem, and develop a novel lifted algorithm to effectively resolve marker pose ambiguities, without discarding any marker observations. Results on real and synthetic data show that our method is able to handle highly ambiguous inputs, and provides more accurate and/or complete marker-based mapping and localisation."
+abstract: "We tackle the INS/GPS sensor fusion problem for pose estimation, particularly in the common setting where the INS components (IMU and magnetometer) function at much higher frequencies than GPS, and where the magnetometer and GPS are prone to giving erroneous measurements (outliers) due to magnetic disturbances and glitches. Our main contribution is a novel non-linear optimization framework that (1) fuses pre-integrated IMU and magnetometer measurements with GPS, in a manner that respects the manifold structure of the state space; and (2) supports the usage of robust norms and efficient large scale optimization to effectively mitigate the effects of outliers. Through extensive experiments, we demonstrate the superior accuracy and robustness of our approach over filtering methods (which are customarily applied in the target setting) with minimal impact to computational efficiency. Our work further illustrates the strength of optimization approaches in state estimation problems and paves the way for their adoption in the control and navigation communities."
 
 # Summary. An optional shortened abstract.
-summary: We propose an efficient algorithm to resolve marker pose ambiguities using rotation averaging.
+summary: We propose an efficient outlier-robust algorithm to tackle INS and GPS sensor fusion problem for pose estimation.
 
 tags:
 - Source Themes
 featured: true
 
 links:
-url_pdf: https://arxiv.org/abs/1909.11888
+url_pdf: https://ieeexplore.ieee.org/document/8967643
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=LtwavEeCkQ4&t=14s'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
