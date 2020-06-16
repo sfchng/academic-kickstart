@@ -30,7 +30,7 @@ summary: We propose an efficient algorithm to resolve marker pose ambiguities us
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 url_pdf: https://arxiv.org/abs/1909.11888
