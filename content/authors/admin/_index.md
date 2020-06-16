@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Ph.D Student
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Mathematical & Computer Science
+  - course: Ph.D in Mathematical & Computer Science
     institution: The University of Adelaide
     year: Present
   - course: BEng(Hons) in Electronic Systems Engineering
