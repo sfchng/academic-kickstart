@@ -7,6 +7,8 @@ abstract: "Many computer vision applications need to recover structure from impe
 
 url_pdf: "https://arxiv.org/abs/2006.06986"
 
+featured: true
+
 # View.
 #   1 = List
 #   2 = Compact
