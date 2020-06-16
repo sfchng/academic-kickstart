@@ -20,7 +20,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IROS 2019*
-publication_short: ""
+publication_short: In IROS 2019
 
 abstract: "We tackle the INS/GPS sensor fusion problem for pose estimation, particularly in the common setting where the INS components (IMU and magnetometer) function at much higher frequencies than GPS, and where the magnetometer and GPS are prone to giving erroneous measurements (outliers) due to magnetic disturbances and glitches. Our main contribution is a novel non-linear optimization framework that (1) fuses pre-integrated IMU and magnetometer measurements with GPS, in a manner that respects the manifold structure of the state space; and (2) supports the usage of robust norms and efficient large scale optimization to effectively mitigate the effects of outliers. Through extensive experiments, we demonstrate the superior accuracy and robustness of our approach over filtering methods (which are customarily applied in the target setting) with minimal impact to computational efficiency. Our work further illustrates the strength of optimization approaches in state estimation problems and paves the way for their adoption in the control and navigation communities."
 
