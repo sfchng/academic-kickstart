@@ -22,8 +22,8 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *DICTA 2019
-publication_short: In DICTA 2019
+publication: In *International Conference on Digital Image Computing:Techniques and Applications* 2019
+publication_short: In *DICTA*
 
 abstract: "A major focus of current research on place recognition is visual localization for autonomous driving. In this scenario, as cameras will be operating continuously, it is realistic to expect videos as an input to visual localization algorithms, as opposed to the single-image querying approach used in other place recognition works. In this paper, we show that exploiting temporal continuity in the testing sequence significantly improves visual localization - qualitatively and quantitatively. Although intuitive, this idea has not been fully explored in recent works. Our main contribution is a novel Monte Carlo-based visual localization technique that can efficiently reason over the image sequence. Also, we propose an image retrieval pipeline which relies on local features and an encoding technique to represent an image as a single vector. The experimental results show that our proposed method achieves better results than state-of-the-art approaches for the task on visual localization under significant appearance change. Our synthetic dataset and source code are publicly made available."
 
