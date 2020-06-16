@@ -29,7 +29,7 @@ summary: We propose an efficient outlier-robust algorithm to tackle INS and GPS 
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 url_pdf: https://ieeexplore.ieee.org/document/8967643
