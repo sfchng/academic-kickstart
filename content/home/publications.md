@@ -59,6 +59,9 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
+ [[main]]
+  title= "Quantum Robust Fitting"
 +++
 
 {{% alert note %}}
