@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D student in the School of Computer Science, The University of Adelaide, supervised by Assoc. Prof. Tat-Jun Chin[](https://cs.adelaide.edu.au/~tjchin/doku.php?id=start), Dr. Yasir Latif[](http://ylatif.github.io)  and Dr. Alireza Khosravian. I am affiliated with Australian Institute for Machine Learning (AIML) and Australian Centre for Robotic Vision (ACRV). My research interest is to develop robust/practical optimisation algorithms for computer vision and robotics application.
+I am a Ph.D student in the School of Computer Science, The University of Adelaide, supervised by [Assoc. Prof. Tat-Jun Chin](https://cs.adelaide.edu.au/~tjchin/doku.php?id=start), [Dr. Yasir Latif](http://ylatif.github.io)  and Dr. Alireza Khosravian. I am affiliated with Australian Institute for Machine Learning (AIML) and Australian Centre for Robotic Vision (ACRV). My research interest is to develop robust/practical optimisation algorithms for computer vision and robotics application.
