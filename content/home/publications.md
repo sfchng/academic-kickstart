@@ -24,7 +24,6 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
   
 [design]
   # Toggle between the various page layout types.
