@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:shinfang.chng@adelaide.edu.au"  # For a direct email link, use "mailto:test@example.org".
 
 - icon: google-scholar
   icon_pack: ai
