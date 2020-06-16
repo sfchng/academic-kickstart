@@ -1,5 +1,5 @@
 ---
-title: "Quantum RObust Fitting"
+title: "Quantum Robust Fitting"
 date: "June 2020"
 
 # View.
