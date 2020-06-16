@@ -14,14 +14,14 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Australian Institute for Machine Learning (AIML)
+  - name: Australian Institute for Machine Learning (AIML), The University of Adelaide
     url: "https://www.adelaide.edu.au/aiml/"
 
   - name: Australian Centre for Robotic Vision (ACRV) 
     url: "https://www.roboticvision.org"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interest is to develop robust/practical optimisation algorithms for computer vision and robotics application.
 
 interests:
 - Artificial Intelligence

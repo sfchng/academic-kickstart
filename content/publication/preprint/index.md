@@ -5,7 +5,7 @@ authors:
 - David Suter
 - admin
 - James Quach
-date: "June 2020"
+date: "2020-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
