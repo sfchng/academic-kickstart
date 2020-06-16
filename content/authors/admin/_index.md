@@ -14,7 +14,7 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-  organization:
+  organization list:
   - name: Australian Institute for Machine Learning (AIML)
     url: "https://www.adelaide.edu.au/aiml/"
   - name: Australian Centre for Robotic Vision (ACRV) 
