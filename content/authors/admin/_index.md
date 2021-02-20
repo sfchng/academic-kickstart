@@ -71,4 +71,5 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. student in the School of Computer Science, University of Adelaide, supervised by [Prof. Tat-Jun Chin](https://cs.adelaide.edu.au/~tjchin/doku.php?id=start) and [Dr. Yasir Latif](http://ylatif.github.io). I am affiliated with [Australian Institute for Machine Learning (AIML)](https://www.adelaide.edu.au/aiml/) and [Australian Centre for Robotic Vision (ACRV)](https://www.roboticvision.org). My research interest is to develop robust/practical optimisation algorithms for robotic perception, with a particular focus on pose estimation and Structure-from-Motion (SfM)/Simultaneous Localisation and Mapping (SLAM) problems.
+I am a Ph.D. researcher in the School of Computer Science, University of Adelaide, supervised by [Prof. Tat-Jun Chin](https://cs.adelaide.edu.au/~tjchin/doku.php?id=start) and [Dr. Yasir Latif](http://ylatif.github.io). I am affiliated with [Australian Institute for Machine Learning (AIML)](https://www.adelaide.edu.au/aiml/) and [Australian Centre for Robotic Vision (ACRV)](https://www.roboticvision.org). 
+My research interest is to develop robust/practical optimisation algorithms for robotic perception, with a particular focus on pose estimation and Structure-from-Motion (SfM)/Simultaneous Localisation and Mapping (SLAM) problems.
