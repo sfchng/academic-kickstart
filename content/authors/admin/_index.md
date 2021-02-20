@@ -14,7 +14,7 @@ role: Ph.D Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Australian Institute for Machine Learning (AIML), The University of Adelaide
+  - name: Australian Institute for Machine Learning (AIML), University of Adelaide
     url: "https://www.adelaide.edu.au/aiml/"
 
   - name: Australian Centre for Robotic Vision (ACRV) 
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. student in the School of Computer Science, The University of Adelaide, supervised by [Prof. Tat-Jun Chin](https://cs.adelaide.edu.au/~tjchin/doku.php?id=start) and [Dr. Yasir Latif](http://ylatif.github.io). I am affiliated with Australian Institute for Machine Learning (AIML) and Australian Centre for Robotic Vision (ACRV). My research interest is to develop robust/practical optimisation algorithms for computer vision and robotics application.
+I am a Ph.D. student in the School of Computer Science, University of Adelaide, supervised by [Prof. Tat-Jun Chin](https://cs.adelaide.edu.au/~tjchin/doku.php?id=start) and [Dr. Yasir Latif](http://ylatif.github.io). I am affiliated with Australian Institute for Machine Learning (AIML) and Australian Centre for Robotic Vision (ACRV). My research interest is to develop robust/practical optimisation algorithms for robotic perception, with a particular focus on pose estimation and Structure-from-Motion (SfM)/Simultaneous Localisation and Mapping (SLAM) problems.
