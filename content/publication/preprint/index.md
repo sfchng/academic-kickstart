@@ -31,7 +31,7 @@ tags:
 featured: false
 
 links:
-url_pdf: https://arxiv.org/abs/2006.06986
+url_pdf: https://openaccess.thecvf.com/content/ACCV2020/papers/Chin_Quantum_Robust_Fitting_ACCV_2020_paper.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
